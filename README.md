@@ -1,5 +1,5 @@
 # Proyeco final
-ProyectoFinal-Gaggero
+ProyectoFinal-Gaggero CoderHouse 2025
 comision: 78110
 profesor: Alan Prestia
 tutora: Gabriela Edith Rossi
