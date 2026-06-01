@@ -1,11 +1,11 @@
 # Proyeco final
-ProyectoFinal-Gaggero CoderHouse 2025
-comision: 78110
-profesor: Alan Prestia
-tutora: Gabriela Edith Rossi
-alumno: Dante Gaggero
+ProyectoFinal-Gaggero CoderHouse 2025.
+Comision: 78110.
+Profesor: Alan Prestia.
+Tutora: Gabriela Edith Rossi.
+Alumno: Dante Gaggero.
 
-link al video: https://youtu.be/VL210GSGfdw
+link al video mostrando la pagina: https://youtu.be/VL210GSGfdw
 
 ✅ Instrucciones para correr el proyecto Django
 
